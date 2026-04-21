@@ -14,7 +14,6 @@ Este repositorio es un archivo exhaustivo de soluciones analíticas y simulacion
 | **Classical Theory of Fields** | Landau & Lifshitz (Vol. 2) | ⚪ Upcoming |
 | **Statistical Mechanics** | Pathria & Beale (4th Ed) | ⚪ Upcoming |
 | **General Relativity** | Robert M. Wald (1984) | ⚪ Upcoming |
-| **Quantum Information** | Nielsen & Chuang (10th Anniv) | ⚪ Upcoming |
 
 ---
 
