@@ -3,7 +3,7 @@
 ## 📂 Exhaustive Progress Tracker
 
 ### 1. Mathematical Preliminaries
-- [ ] **1.1** Infinite Series
+- [x] **1.1** Infinite Series
 - [ ] **1.2** Series of Functions
 - [ ] **1.3** Binomial Theorem
 - [ ] **1.4** Mathematical Induction
