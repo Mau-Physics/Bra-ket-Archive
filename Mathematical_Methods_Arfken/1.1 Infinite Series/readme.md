@@ -12,7 +12,7 @@ This folder contains the complete solutions and numerical simulations for Sectio
 - Acceleration of convergence techniques.
 
 ---
-*Part of the [Bra-ket Archive](https://github.com) project for PhD preparation.*
+*Part of the [Bra-ket Archive](https://github.com/Mau-Physics ) project for PhD preparation.*
 
 ## 🎥 Video Explanation
 Detailed walkthroughs and Manim animations for these problems are available on our YouTube channel:
