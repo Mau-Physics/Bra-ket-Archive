@@ -19,7 +19,7 @@ This folder contains exhaustive solutions and high-fidelity numerical simulation
 - **Phase Space Topology:** Identification of KAM tori, chaotic seas, and Lyapunov exponents.
 
 ---
-*Part of the [Bra-ket Archive](https://github.com) project for PhD preparation.*
+*Part of the [Bra-ket Archive](https://github.com/Mau-Physics ) project for PhD preparation.*
 
 ## 🎥 Video Explanations
 Detailed walkthroughs and Manim animations for these exhaustive problems:
