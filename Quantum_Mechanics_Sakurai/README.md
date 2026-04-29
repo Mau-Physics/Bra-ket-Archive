@@ -2,119 +2,12 @@
 
 ## 📂 Exhaustive Progress Tracker
 
-### 1. Fundamental Concepts
-- [ ] **1.1** The Stern–Gerlach Experiment
-    - [ ] **1.1.1** Description of the Experiment
-    - [ ] **1.1.2** Sequential Stern–Gerlach Experiments
-    - [ ] **1.1.3** Analogy with Polarization of Light
-- [ ] **1.2** Kets, Bras, and Operators
-    - [ ] **1.2.1** Ket Space
-    - [ ] **1.2.2** Bra Space and Inner Products
-    - [ ] **1.2.3** Operators
-    - [ ] **1.2.4** Multiplication
-    - [ ] **1.2.5** The Associative Axiom
-- [ ] **1.3** Base Kets and Matrix Representations
-    - [ ] **1.3.1** Eigenkets of an Observable
-    - [ ] **1.3.2** Eigenkets as Base Kets
-    - [ ] **1.3.3** Matrix Representations
-    - [ ] **1.3.4** Spin $\frac{1}{2}$ Systems
-- [ ] **1.4** Measurements, Observables, and the Uncertainty Relations
-    - [ ] **1.4.1** Measurements
-    - [ ] **1.4.2** Spin $\frac{1}{2}$ Systems, Once Again
-    - [ ] **1.4.3** Compatible Observables
-    - [ ] **1.4.4** Incompatible Observables
-    - [ ] **1.4.5** The Uncertainty Relation
-- [ ] **1.5** Change of Basis
-    - [ ] **1.5.1** Transformation Operator
-    - [ ] **1.5.2** Transformation Matrix
-    - [ ] **1.5.3** Diagonalization
-    - [ ] **1.5.4** Unitary Equivalent Observables
-- [ ] **1.6** Position, Momentum, and Translation
-    - [ ] **1.6.1** Continuous Spectra
-    - [ ] **1.6.2** Position Eigenkets and Position Measurements
-    - [ ] **1.6.3** Translation
-    - [ ] **1.6.4** Momentum as a Generator of Translation
-    - [ ] **1.6.5** The Canonical Commutation Relations
-- [ ] **1.7** Wave Functions in Position and Momentum Space
-    - [ ] **1.7.1** Position-Space Wave Function
-    - [ ] **1.7.2** Momentum Operator in the Position Basis
-    - [ ] **1.7.3** Momentum-Space Wave Function
-    - [ ] **1.7.4** Gaussian Wave Packets
-    - [ ] **1.7.5** Generalization to Three Dimensions
 
-### 2. Quantum Dynamics
-- [ ] **2.1** Time Evolution and the Schrödinger Equation
-    - [ ] **2.1.1** Time-Evolution Operator
-    - [ ] **2.1.2** The Schrödinger Equation
-    - [ ] **2.1.3** Energy Eigenkets
-    - [ ] **2.1.4** Time Dependence of Expectation Values
-    - [ ] **2.1.5** Spin Precession
-    - [ ] **2.1.6** Neutrino Oscillations
-    - [ ] **2.1.7** Correlation Amplitude and the Energy-Time Uncertainty Relation
-- [ ] **2.2** The Schrödinger Versus the Heisenberg Picture
-    - [ ] **2.2.1** Unitary Operators
-    - [ ] **2.2.2** State Kets and Observables in the Schrödinger and the Heisenberg Pictures
-    - [ ] **2.2.3** The Heisenberg Equation of Motion
-    - [ ] **2.2.4** Free Particles: Ehrenfest's Theorem
-    - [ ] **2.2.5** Base Kets and Transition Amplitudes
-- [ ] **2.3** Simple Harmonic Oscillator
-    - [ ] **2.3.1** Energy Eigenkets and Energy Eigenvalues
-    - [ ] **2.3.2** Time Development of the Oscillator
-- [ ] **2.4** Schrödinger's Wave Equation
-    - [ ] **2.4.1** Time-Dependent Wave Equation
-    - [ ] **2.4.2** Time-Independent Wave Equation
-    - [ ] **2.4.3** Interpretations of the Wave Function
-    - [ ] **2.4.4** The Classical Limit
-- [ ] **2.5** Elementary Solutions to Schrödinger's Wave Equation
-    - [ ] **2.5.1** Free Particle in Three Dimensions
-    - [ ] **2.5.2** The Simple Harmonic Oscillator
-    - [ ] **2.5.3** The Linear Potential
-    - [ ] **2.5.4** The WKB (Semiclassical) Approximation
-- [ ] **2.6** Propagators and Feynman Path Integrals
-    - [ ] **2.6.1** Propagators in Wave Mechanics
-    - [ ] **2.6.2** Propagator as a Transition Amplitude
-    - [ ] **2.6.3** Path Integrals as the Sum over Paths
-    - [ ] **2.6.4** Feynman’s Formulation
-- [ ] **2.7** Propagators and Feynman Path Integrals
-    - [ ] **2.7.1** Constant Potentials
-    - [ ] **2.7.2** Gravity in Quantum Mechanics
-    - [ ] **2.7.3** Gauge Transformations in Electromagnetism
-    - [ ] **2.7.4** The Aharonov-Bohm Effect
-    - [ ] **2.7.5** Magnetic Monopole
-
-### 3. Theory of Angular Momentum
-- [ ] **3.1** Rotations and Angular Momentum Commutation Relations
-    - [ ] **3.1.1** Finite Versus Infinitesimal Rotations
-    - [ ] **3.1.2** Infinitesimal Rotations in Quantum Mechanics
-    - [ ] **3.1.3** Finite Rotations in Quantum Mechanics
-    - [ ] **3.1.4** Commutation Relations for Angular Momentum
-- [ ] **3.2** Spin 1/2 Systems and Finite Rotations
-    - [ ] **3.2.1** Rotation Operator for Spin 1/2
-    - [ ] **3.2.2** Spin Precession Revisited
-    - [ ] **3.2.3** Neutron Interferometry Experiment to Study 2π Rotations
-    - [ ] **3.2.4** Pauli Two-Component Formalism
-    - [ ] **3.2.5** Rotations in the Two-Component Formalism
-- [ ] **3.3** SO(3), SU(2), and Euler Rotations
-    - [ ] **3.3.1** Orthogonal Group
-    - [ ] **3.3.2** Unitary Unimodular Group
-    - [ ] **3.3.3** Euler Rotations
-- [ ] **3.4** Density Operators and Pure Versus Mixed Ensembles
-    - [ ] **3.4.1** Polarized Versus Unpolarized Beams
-    - [ ] **3.4.2** Ensemble Averages and Density Operator
-    - [ ] **3.4.3** Time Evolution of Ensembles
-    - [ ] **3.4.4** Continuum Generalizations
-    - [ ] **3.4.5** Quantum Statistical Mechanics
-- [ ] **3.5** Eigenvalues and Eigenstates of Angular Momentum
-    - [ ] **3.5.1** Commutation Relations and the Ladder Operators
-    - [ ] **3.5.2** Eigenvalues of J² and Jz
-    - [ ] **3.5.3** Matrix Elements of Angular-Momentum Operators
-    - [ ] **3.5.4** Representations of the Rotation Operator
-- [ ] **3.6** Orbital Angular Momentum
-    - [ ] **3.6.1** Orbital Angular Momentum as Rotation Generator
-    - [ ] **3.6.2** Spherical Harmonics
-    - [ ] **3.6.3** Spherical Harmonics as Rotation Matrices
-- [ ] **3.7** Schrödinger's Equation for Central Potentials
-    - [ ] **3.7.1** The Radial Equation
-    - [ ] **3.7.2** The Free Particle and Infinite Spherical Well
-    - [ ] **3.7.3** The Isotropic Harmonic Oscillator
-    - [ ] **3.7.4** The Coulomb Potential
+- [ ] **1** 1. Fundamental Concepts
+- [ ] **2** Quantum Dynamics
+- [ ] **3** Theory of Angular Momentum
+- [ ] **4**
+- [ ] **5**
+- [ ] **6**
+- [ ] **7**
+- [ ] **8**
