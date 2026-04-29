@@ -7,10 +7,10 @@ Este repositorio es un archivo exhaustivo de soluciones analíticas y simulacion
 
 | Disciplina | Libro de Referencia | Estado |
 | :--- | :--- | :--- |
-| **Mathematical Methods** | Arfken & Weber (7th Ed) | 🟢 Active |
+| **Mathematical Methods** | Arfken & Weber (7th Ed) | ⚪ Inactive |
 | **Classical Electrodynamics** | J.D. Jackson (3rd Ed) | ⚪ Upcoming |
 | **Modern Quantum Mechanics** | J.J. Sakurai (3rd Ed) | ⚪ Upcoming |
-| **Classical Mechanics** | Landau & Lifshitz (Vol. 1) | ⚪ Upcoming |
+| **Classical Mechanics** | Landau & Lifshitz (Vol. 1) | 🟢 Active |
 | **Classical Theory of Fields** | Landau & Lifshitz (Vol. 2) | ⚪ Upcoming |
 | **Statistical Mechanics** | Pathria & Beale (4th Ed) | ⚪ Upcoming |
 | **General Relativity** | Robert M. Wald (1984) | ⚪ Upcoming |
