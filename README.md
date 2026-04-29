@@ -1,6 +1,6 @@
 # ⟨ Bra-ket Archive | Theoretical Physics Solutions ⟩
 
-Este repositorio es un archivo exhaustivo de soluciones analíticas y simulaciones computacionales de los pilares de la física teórica de posgrado. 
+This repository serves as a comprehensive archive of analytical solutions and computational simulations covering the core pillars of graduate theoretical physics.
 
 ## 📚 The Core Curriculum
 
@@ -18,7 +18,7 @@ Este repositorio es un archivo exhaustivo de soluciones analíticas y simulacion
 ---
 
 ## 🎯 Meta: Cambridge PhD
-Documentar el dominio de estos textos fundamentales como preparación para el ingreso directo al doctorado en la **Universidad de Cambridge (DAMTP)**.
+To document mastery of these foundational texts as preparation for direct entry into the PhD program at the University of Cambridge (DAMTP).
 
 ## 📂 Repository Structure
 *   **/Mathematical_Methods_Arfken**: Series, special functions, and complex variables.
