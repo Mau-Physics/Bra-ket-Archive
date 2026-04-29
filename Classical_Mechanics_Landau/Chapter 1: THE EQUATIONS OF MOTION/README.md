@@ -29,4 +29,4 @@ Detailed walkthroughs and Manim animations for these exhaustive problems:
 4.  [**Landau 1.4 - Watt's Governor: Routhian vs. Hamiltonian**](TU_LINK_4_AQUÍ)
 
 ---
-*Follow the journey to Cambridge PhD at [Bra-Ket Archive]([https://youtube.com](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg))*
+*Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg)*
