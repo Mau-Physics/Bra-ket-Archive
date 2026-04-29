@@ -19,4 +19,4 @@ Detailed walkthroughs and Manim animations for these problems are available on o
 *   [**Bra-Ket Archive - Section 1.1 Walkthrough**](TU_LINK_AQUÍ)
 
 ---
-*Follow the journey to Cambridge PhD at [Bra-Ket Archive]([https://youtube.com](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg))*
+*Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg)*
