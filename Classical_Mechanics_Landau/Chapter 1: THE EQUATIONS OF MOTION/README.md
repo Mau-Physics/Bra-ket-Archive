@@ -1,7 +1,9 @@
 # 1. THE EQUATIONS OF MOTION - Classical Mechanics (Landau & Lifshitz)
 
 This folder contains exhaustive solutions and high-fidelity numerical simulations for Chapter 1 of Landau and Lifshitz's *Course of Theoretical Physics, Vol. 1*.
-
+> [!IMPORTANT]
+> **PDF Preview Issue:** Due to the high density of LaTeX equations and complex vector graphics, the GitHub web viewer may fail to render the preview. For the full experience, please **download the file** or clone the repository.
+This folder contains exhaustive solutions and high-fidelity numerical simulations for Chapter 1 of Landau and Lifshitz's *Course of Theoretical Physics, Vol. 1*.
 ## 📄 Contents
 *   **[V.1_Classical_Mechanics_Landau_Sol1_The_Equations_of_Motion.pdf](./V.1_Classical_Mechanics_Landau_Sol1_The_Equations_of_Motion.pdf):** 40+ pages of detailed LaTeX solutions. Includes step-by-step derivations of Lagrangians, Hamiltonians, and analytical treatments for complex pendulums.
 *   **[Braket_Landau_1_Simulations.ipynb](./Braket_Landau_1_Simulations.ipynb):** Python notebook (Google Colab) with advanced integrators for non-linear systems, phase space maps, and energy conservation benchmarks.
