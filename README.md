@@ -30,4 +30,4 @@ To document mastery of these foundational texts as preparation for direct entry 
 
 ---
 
-**YouTube:** https://www.youtube.com/@Bra-KetArchive | **LinkedIn:** (https://www.linkedin.com/in/l%C3%B3pez-merino-mauricio-2548ab322/ )
+[YouTube](https://www.youtube.com/@Bra-KetArchive)| [LinkedIn](https://www.linkedin.com/in/l%C3%B3pez-merino-mauricio-2548ab322/ )
