@@ -1,4 +1,4 @@
-# 1. SPECIAL RELATIVITY - General Relativity (Robert M. Wald)
+# 1. Introduction - General Relativity (Robert M. Wald)
 
 This folder contains exhaustive solutions and high-fidelity numerical simulations for Chapter 1 (and introductory problems) of Robert M. Wald's *General Relativity*.
 
