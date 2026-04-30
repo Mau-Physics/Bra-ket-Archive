@@ -9,7 +9,7 @@ The following simulations illustrate the **Relativity of Simultaneity** in the "
 | **Garage Frame ($S$)** | **Car Frame ($S'$)** |
 | :---: | :---: |
 | ![Garage Frame GIF](garage_frame_simulation.gif) | ![Car Frame GIF](driver_frame_simulation.gif) |
-| *Simultaneity is preserved: The car fits via Lorentz Contraction ($L/\gamma < L$).* | *Simultaneity is destroyed: The car fits via staggered mechanical compression.* |
+| *Simultaneity is preserved: The car fits via Lorentz Contraction (`L/γ < L`).* | *Simultaneity is destroyed: The car fits via staggered mechanical compression.* |
 
 ## 📄 Contents
 *   **[WALD_PROBLEMS_1.pdf](./WALD_PROBLEMS_1.pdf):** Detailed analytical solutions focusing on the Minkowski metric signature $(+, -, -, -)$, Lorentz boosts, and the resolution of causality paradoxes.
@@ -31,3 +31,6 @@ The following simulations illustrate the **Relativity of Simultaneity** in the "
 ## 🎥 Video Explanations
 Detailed walkthroughs and Manim animations for these relativistic problems:
 1. [**Wald 1.1 - The Car & Garage Paradox: Resolving Causality**](TU_LINK_AQUÍ)
+
+---
+*Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg)*
