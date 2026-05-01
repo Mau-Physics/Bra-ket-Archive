@@ -13,7 +13,7 @@ This repository serves as a comprehensive archive of analytical solutions and co
 | **Classical Mechanics** | Landau & Lifshitz (Vol. 1) | 🟢 Active |
 | **Classical Theory of Fields** | Landau & Lifshitz (Vol. 2) | ⚪ Upcoming |
 | **Statistical Mechanics** | Pathria & Beale (4th Ed) | ⚪ Upcoming |
-| **General Relativity** | Robert M. Wald (1984) | ⚪ Upcoming |
+| **General Relativity** | Robert M. Wald (1984) | 🟢 Active |
 
 ---
 
