@@ -12,7 +12,7 @@ The following simulations illustrate the **Relativity of Simultaneity** in the "
 | *Simultaneity is preserved: The car fits via Lorentz Contraction (`L/γ < L`).* | *Simultaneity is destroyed: The car fits via staggered mechanical compression.* |
 
 ## 📄 Contents
-*   **[WALD_PROBLEMS_1.pdf](./WALD_PROBLEMS_1.pdf):** Detailed analytical solutions focusing on the Minkowski metric signature $(+, -, -, -)$, Lorentz boosts, and the resolution of causality paradoxes.
+*   **[WALD_PROBLEMS_1.pdf](./General_Relativity_Wald_Sol1.Introducction.pdf):** Detailed analytical solutions focusing on the Minkowski metric signature $(+, -, -, -)$, Lorentz boosts, and the resolution of causality paradoxes.
 *   **[Wald_Problem_1_Simulations.ipynb](./BraKet_Wald_simulation_1_Introduction.ipynb):** Python notebook (Google Colab) featuring dynamic Minkowski diagrams, spacetime "tilting" visualizations, and numerical verification of the invariant interval.
 
 ## 🎯 Key Concepts & Deep Dives
