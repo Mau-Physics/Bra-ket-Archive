@@ -3,7 +3,7 @@
 ## 📂 Exhaustive Progress Tracker
 
 
-- [ ] **1** Fundamental Concepts
+- [x] **1** Fundamental Concepts
 - [ ] **2** Quantum Dynamics
 - [ ] **3** Theory of Angular Momentum
 - [ ] **4** Symmetry in Quantum Mechanics
