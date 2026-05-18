@@ -27,10 +27,11 @@ The following highlights feature complete numerical implementations and visual a
 
 ## 🎥 Video Explanations
 Detailed walkthroughs and animations for these conceptual deep dives:
-1.  [**Sakurai 1.1 & 1.11 - Spin Quantization & Stern-Gerlach Mechanics**](YOUR_LINK_1)
-2.  [**Sakurai 1.24 - The Quantum Ice Pick & Uncertainty Limits**](YOUR_LINK_2)
-3.  [**Sakurai 1.26 - Visualizing the Bloch Sphere & Spin Rotations**](YOUR_LINK_3)
-4.  [**Sakurai 1.34 - Galilean Boosts & Wave-Packet Kinematics**](YOUR_LINK_4)
+1.  [**Sakurai 1.1 - Stern-Gerlach Mechanics**](YOUR_LINK_1)
+2.  [**Sakurai1.11 - Spin Quantization**](YOUR_LINK_5)
+3.  [**Sakurai 1.24 - The Quantum Ice Pick & Uncertainty Limits**](YOUR_LINK_2)
+4.  [**Sakurai 1.26 - Visualizing the Bloch Sphere & Spin Rotations**](YOUR_LINK_3)
+5.  [**Sakurai 1.34 - Galilean Boosts & Wave-Packet Kinematics**](YOUR_LINK_4)
 
 ---
 *Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg)*
