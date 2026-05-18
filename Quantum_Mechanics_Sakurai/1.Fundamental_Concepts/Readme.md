@@ -24,7 +24,9 @@ Problem & Description and Simulation Visual:
 
 **Problem 1.26 - Spinor Rotations & Bloch Sphere Dynamics**<br>Geometric animation tracking state vector trajectories across the Bloch Sphere under unitary rotation operators. Highly optimized for short-form visual explanations.<img src="./bloch_sphere_rotation_dx.gif"  alt="Bloch Sphere Rotation"/>
 
-**Problem 1.29-b - 3D Scattering & Spherical Potentials**<br>Continuous computational physics script solving the Fourier-Sine transform for spherical potentials to determine scattering amplitudes (p. 10). <img src="./fourier_collision_animation(1).gif" width="350" alt="3D Scattering"/> <img src="./yukawa_fourier_transform_animation.gif"  alt="3D Scattering"/>
+**Problem 1.29-b - 3D Scattering & Spherical Potentials**<br>Continuous computational physics script solving the Fourier-Sine transform for spherical potentials to determine scattering amplitudes (p. 10).
+<img src="./fourier_collision_animation(1).gif"  alt="3D Scattering"/>
+<img src="./yukawa_fourier_transform_animation.gif"  alt="3D Scattering"/>
 
 **Problem 1.34 - The Boost Operator**<br>Wave-packet dynamics experiencing an instantaneous momentum kick ( $𝐵(d𝐩′)=𝐈+𝑖𝐖⋅d𝐩′$ ). Demonstrates instantaneous velocity shifts without altering the spatial probability density. <img src="./boost_phase_wavepacket_animation.gif"  alt="Boost Operator"/> 
 
