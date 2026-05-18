@@ -15,7 +15,7 @@ The following highlights feature complete numerical implementations and visual a
 
 | Problem & Description | Simulation Visual |
 | :--- | :---: |
-| **Problem 1.1 - The Stern-Gerlach Experiment**<br>Physical simulation of a silver atomic beam deflection splitting in an inhomogeneous magnetic field ($z$-axis). Acts as the foundational gateway to state quantization (pp. 2–3). | <img src="/stern_gerlach.gif" width="350" alt="Stern-Gerlach Simulation"/> |
+| **Problem 1.1 - The Stern-Gerlach Experiment**<br>Physical simulation of a silver atomic beam deflection splitting in an inhomogeneous magnetic field ($z$-axis). Acts as the foundational gateway to state quantization (pp. 2–3). | [Stern-Gerlach Simulation](stern_gerlach.gif)|
 | **Problem 1.11 - Spinors in the $\hat{n}$ Direction**<br>Three-dimensional projection in spherical coordinates of the arbitrary spin operator $\vec{\sigma} \cdot \hat{n}$. Visualizes expectation values across the angular manifold (pp. 16–17). | <img src="/bloch_sphere_temporal_evolution.gif" width="350" alt="Spinors in n-direction"/> |
 | **Problem 1.24 - The Quantum Ice Pick**<br>Simulation of an inverted pendulum's intrinsic instability governed by Heisenberg's minimal uncertainty relation $\Delta x \Delta p \geq \hbar/2$ (pp. 38–39). | <img src="/ice_pick_fall_custom.gif" width="350" alt="Quantum Ice Pick"/> |
 | **Problem 1.26 - Spinor Rotations & Bloch Sphere Dynamics**<br>Geometric animation tracking state vector trajectories across the Bloch Sphere under unitary rotation operators. Highly optimized for short-form visual explanations. | <img src="/bloch_sphere_rotation_dx.gif" width="350" alt="Bloch Sphere Rotation"/> |
