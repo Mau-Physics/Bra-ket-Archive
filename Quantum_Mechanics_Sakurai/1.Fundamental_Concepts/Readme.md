@@ -6,7 +6,7 @@ This folder contains exhaustive solutions and high-fidelity numerical simulation
 
 ## 📄 Contents
 *   **[Modern_Quantum_Mechanics_Sakurai_Sol_Ch1.pdf](./Modern_Quantum_Mechanics_Sakurai_Sol_Ch1.pdf):** Detailed LaTeX solutions covering fundamental postulates, spin-$1/2$ systems, and bra-ket formalism.
-*   **[Braket_Sakurai_1_Simulations.ipynb](./Braket_Sakurai_1_Simulations.ipynb):** Python notebook (Google Colab) featuring continuous wave-packet propagation, spin-operator projections, and Bloch sphere trajectories.
+*   **[Braket_Sakurai_1_Simulations.ipynb](./Braket_Sakurai_1_simulations.ipynb):** Python notebook (Google Colab) featuring continuous wave-packet propagation, spin-operator projections, and Bloch sphere trajectories.
 
 ## 🎯 Key Concepts & Interactive Simulations
 
