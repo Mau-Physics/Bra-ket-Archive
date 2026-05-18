@@ -13,7 +13,7 @@ The following simulations illustrate the **Relativity of Simultaneity** in the "
 
 ## 📄 Contents
 *   **[WALD_PROBLEMS_1.pdf](./WALD_PROBLEMS_1.pdf):** Detailed analytical solutions focusing on the Minkowski metric signature $(+, -, -, -)$, Lorentz boosts, and the resolution of causality paradoxes.
-*   **[Wald_Problem_1_Simulations.ipynb](./Wald_Problem_1_Simulations.ipynb):** Python notebook (Google Colab) featuring dynamic Minkowski diagrams, spacetime "tilting" visualizations, and numerical verification of the invariant interval.
+*   **[Wald_Problem_1_Simulations.ipynb](./BraKet_Wald_simulation_1_Introduction.ipynb):** Python notebook (Google Colab) featuring dynamic Minkowski diagrams, spacetime "tilting" visualizations, and numerical verification of the invariant interval.
 
 ## 🎯 Key Concepts & Deep Dives
 - **Problem 1.1 - The Car and Garage Paradox:** 
