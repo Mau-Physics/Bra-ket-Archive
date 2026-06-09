@@ -8,7 +8,7 @@ This repository serves as a comprehensive archive of analytical solutions and co
 | Disciplina | Libro de Referencia | Estado |
 | :--- | :--- | :--- |
 | **Mathematical Methods** | Arfken & Weber (7th Ed) | ⚪ Inactive |
-| **Classical Electrodynamics** | J.D. Jackson (3rd Ed) | ⚪ Upcoming |
+| **Classical Electrodynamics** | J.D. Jackson (3rd Ed) | 🟢 Active |
 | **Modern Quantum Mechanics** | J.J. Sakurai (3rd Ed) | 🟢 Active |
 | **Classical Mechanics** | Landau & Lifshitz (Vol. 1) | 🟢 Active |
 | **Classical Theory of Fields** | Landau & Lifshitz (Vol. 2) | ⚪ Upcoming |
