@@ -7,7 +7,7 @@ This folder contains exhaustive solutions and high-fidelity boundary-value numer
 
 ## 📄 Contents
 *   **[Classical_Electrodynamics_Jackson_Sol_Ch1.pdf](./Electrodynamics_Jackson_Sol.1_INTRODUCTION_TO_ELECTROSTATICS.pdf):** 77 pages of rigorous LaTeX solutions structured as peer-reviewed short communications, utilizing advanced theoretical frameworks (Maxwell Stress Tensors, Legendre Transform Co-energies) to bridge electrostatics with fields and thermodynamics [Anterior, Anterior].
-*   **[Braket_Jackson_1_Simulations.ipynb](./Braket_Jackson_1_simulations.ipynb):** High-performance Python notebook featuring customized Google Colab integration (`Colablink`), running Successive Over-Relaxation (SOR) matrix solvers optimized under eightfold symmetry masks [Anterior, Anterior].
+*   **[Braket_Jackson_1_Simulations.ipynb](./Braket_Jackson_1_simulations.ipynb):** High-performance Python notebook featuring customized Google Colab integration [`Colablink`](https://colab.research.google.com/drive/1polGb4yRlte0YBiZtCJ2ESrzPt5qagSB?usp=sharing), running Successive Over-Relaxation (SOR) matrix solvers optimized under eightfold symmetry masks [Anterior, Anterior].
 
 ## 🎯 Key Concepts & Interactive Simulations
 
