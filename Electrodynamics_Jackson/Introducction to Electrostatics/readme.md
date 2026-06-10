@@ -6,26 +6,26 @@ This folder contains exhaustive solutions and high-fidelity boundary-value numer
 > **PDF Preview Issue:** Due to the extreme density of partial differential equations, multi-panel vector fields, and custom analytical footnotes, the GitHub web viewer may fail to render the preview. For the full experience, please **download the file** or clone the repository.
 
 ## 📄 Contents
-*   **[Classical_Electrodynamics_Jackson_Sol_Ch1.pdf](./Electrodynamics_Jackson_Sol.1_INTRODUCTION_TO_ELECTROSTATICS.pdf):** 77 pages of rigorous LaTeX solutions structured as peer-reviewed short communications, utilizing advanced theoretical frameworks (Maxwell Stress Tensors, Legendre Transform Co-energies) to bridge electrostatics with fields and thermodynamics [Anterior, Anterior].
-*   **[Braket_Jackson_1_Simulations.ipynb](./BraKet_Jakson_simulation_1_INTRODUCTION_TO_ELECTROSTATICS.ipynb):** High-performance Python notebook featuring customized Google Colab integration [`Colablink`](https://colab.research.google.com/drive/1polGb4yRlte0YBiZtCJ2ESrzPt5qagSB?usp=sharing), running Successive Over-Relaxation (SOR) matrix solvers optimized under eightfold symmetry masks [Anterior, Anterior].
+*   **[Classical_Electrodynamics_Jackson_Sol_Ch1.pdf](./Electrodynamics_Jackson_Sol.1_INTRODUCTION_TO_ELECTROSTATICS.pdf):** 77 pages of rigorous LaTeX solutions structured as peer-reviewed short communications, utilizing advanced theoretical frameworks (Maxwell Stress Tensors, Legendre Transform Co-energies) to bridge electrostatics with fields and thermodynamics .
+*   **[Braket_Jackson_1_Simulations.ipynb](./BraKet_Jakson_simulation_1_INTRODUCTION_TO_ELECTROSTATICS.ipynb):** High-performance Python notebook featuring customized Google Colab integration [`Colablink`](https://colab.research.google.com/drive/1polGb4yRlte0YBiZtCJ2ESrzPt5qagSB?usp=sharing), running Successive Over-Relaxation (SOR) matrix solvers optimized under eightfold symmetry masks .
 
 ## 🎯 Key Concepts & Interactive Simulations
 
 The following highlights feature complete numerical implementations, boundary constraints, and visual assets demonstrating core electrostatic kinematics:
 
-**Problem 1.4 - Gauss's Law Across Spherical Varieties**<br>Comparative computational physics laboratory solving the radial electric field $|E|$ for four distinct matter densities under strict Dirichlet boundary conditions ($a=1.0$) [Anterior]. Validates asymptotic global flux convergence [Anterior].
+**Problem 1.4 - Gauss's Law Across Spherical Varieties**<br>Comparative computational physics laboratory solving the radial electric field $|E|$ for four distinct matter densities under strict Dirichlet boundary conditions ($a=1.0$) [Anterior]. Validates asymptotic global flux convergence .
 <img src="./gifs/conducting_sphere_animation.gif" alt="Gauss Law Spherical Varieties"/>
 
-**Problem 1.5 - The Quantum-Classical Hydrogen Atom**<br>Continuous Poisson solver tracking the electronic screening progress factor. Illustrates the geometric interplay between the discrete proton singularity ($\delta$-function nucleus) and the continuous exponential $1s$ orbital charge density [Anterior].
+**Problem 1.5 - The Quantum-Classical Hydrogen Atom**<br>Continuous Poisson solver tracking the electronic screening progress factor. Illustrates the geometric interplay between the discrete proton singularity ($\delta$-function nucleus) and the continuous exponential $1s$ orbital charge density .
 <img src="./gifs/hydrogen_atom_screening.gif" alt="Hydrogen Screening Simulation"/>
 
-**Problem 1.9 - Actuator Pull-In Instability (MEMS Mode)**<br>Dynamic electromechanical coupling simulation tracking the competition between Hooke's linear spring force and the non-linear electrostatic attraction ($\propto 1/x^2$) [Anterior]. Captures the exact micro-second transient collapse under voltage-control [Anterior].
+**Problem 1.9 - Actuator Pull-In Instability (MEMS Mode)**<br>Dynamic electromechanical coupling simulation tracking the competition between Hooke's linear spring force and the non-linear electrostatic attraction ($\propto 1/x^2$) [Anterior]. Captures the exact micro-second transient collapse under voltage-control .
 <img src="./gifs/capacitor_pull_in_animation.gif" alt="MEMS Pull-In Simulation"/>
 
-**Problem 1.11 - Electrostatic Boundary Flux & Surface Curvature**<br>Geometric differential solver animating a mutating conductor interface to confirm the invariant coupling between the normal derivative of the field ($\frac{\partial E}{\partial n}$) and the local Mean Curvature ($2H = \frac{1}{R_1} + \frac{1}{R_2}$) along the diagonal $Y=X$ line [Anterior, Anterior].
+**Problem 1.11 - Electrostatic Boundary Flux & Surface Curvature**<br>Geometric differential solver animating a mutating conductor interface to confirm the invariant coupling between the normal derivative of the field ($\frac{\partial E}{\partial n}$) and the local Mean Curvature ($2H = \frac{1}{R_1} + \frac{1}{R_2}$) along the diagonal $Y=X$ line .
 <img src="./gifs/curvature_animation.gif" alt="Surface Curvature Simulation"/>
 
-**Problem 1.23 & 1.24 - 2D Transmission Line Lattice Relaxation (SOR)**<br>High-fidelity numerical field solver executing **5,185 Successive Over-Relaxation iterations** ($\omega = 1.75$) over an explicit eightfold symmetry mesh fraction [Anterior, Anterior]. Audits discretization errors down to a $\mathcal{O}(h^2)$ grid convergence limit with strict $10^{-10}$ floating-point precision [Anterior, Anterior].
+**Problem 1.23 & 1.24 - 2D Transmission Line Lattice Relaxation (SOR)**<br>High-fidelity numerical field solver executing **5,185 Successive Over-Relaxation iterations** ($\omega = 1.75$) over an explicit eightfold symmetry mesh fraction . Audits discretization errors down to a $\mathcal{O}(h^2)$ grid convergence limit with strict $10^{-10}$ floating-point precision .
 <img src="./gifs/potential_convergence(1).gif" alt="SOR 2D Potential Surface Relaxation(1.23)"/>
 
 <img src="./gifs/jacobi_gauss_seidel_convergence.gif" alt="Jacobi vs Gauss converge(1.24)"/>
