@@ -14,7 +14,7 @@ This folder contains exhaustive solutions and high-fidelity boundary-value numer
 The following highlights feature complete numerical implementations, boundary constraints, and visual assets demonstrating core electrostatic kinematics:
 
 **Problem 1.4 - Gauss's Law Across Spherical Varieties**<br>Comparative computational physics laboratory solving the radial electric field $|E|$ for four distinct matter densities under strict Dirichlet boundary conditions ($a=1.0$) [Anterior]. Validates asymptotic global flux convergence [Anterior].
-<img src="./gifs/gauss_law_spherical_varieties.gif" alt="Gauss Law Spherical Varieties"/>
+<img src="./gifs/conducting_sphere_animation.gif" alt="Gauss Law Spherical Varieties"/>
 
 **Problem 1.5 - The Quantum-Classical Hydrogen Atom**<br>Continuous Poisson solver tracking the electronic screening progress factor. Illustrates the geometric interplay between the discrete proton singularity ($\delta$-function nucleus) and the continuous exponential $1s$ orbital charge density [Anterior].
 <img src="./gifs/hydrogen_screening_progress.gif" alt="Hydrogen Screening Simulation"/>
