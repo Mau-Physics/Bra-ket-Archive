@@ -40,4 +40,4 @@ Detailed walkthroughs and masterclasses for these theoretical and numerical deep
 5.  [**Jackson 1.23 - Coding SOR & Relaxation Algorithms from Scratch**](YOUR_LINK_5)
 
 ---
-*Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://youtube.com)*
+*Follow the journey to Cambridge PhD at [Bra-Ket Archive](https://www.youtube.com/channel/UCU8PBiOcpkLhV0_TMgYx2vg)*
