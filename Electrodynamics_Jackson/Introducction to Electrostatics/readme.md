@@ -26,7 +26,9 @@ The following highlights feature complete numerical implementations, boundary co
 <img src="./gifs/curvature_animation.gif" alt="Surface Curvature Simulation"/>
 
 **Problem 1.23 & 1.24 - 2D Transmission Line Lattice Relaxation (SOR)**<br>High-fidelity numerical field solver executing **5,185 Successive Over-Relaxation iterations** ($\omega = 1.75$) over an explicit eightfold symmetry mesh fraction [Anterior, Anterior]. Audits discretization errors down to a $\mathcal{O}(h^2)$ grid convergence limit with strict $10^{-10}$ floating-point precision [Anterior, Anterior].
-<img src="./gifs/transmission_line_sor_3d_relaxation.gif" alt="SOR 3D Potential Surface Relaxation"/>
+<img src="./gifs/potential_convergence(1).gif" alt="SOR 2D Potential Surface Relaxation(1.23)"/>
+
+<img src="./gifs/jacobi_gauss_seidel_convergence.gif" alt="Jacobi vs Gauss converge(1.24)"/>
 
 ---
 *Part of the [Bra-ket Archive](https://github.com/Mau-Physics) project for PhD preparation.*
