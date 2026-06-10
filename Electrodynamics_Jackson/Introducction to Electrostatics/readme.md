@@ -20,7 +20,7 @@ The following highlights feature complete numerical implementations, boundary co
 <img src="./gifs/hydrogen_screening_progress.gif" alt="Hydrogen Screening Simulation"/>
 
 **Problem 1.9 - Actuator Pull-In Instability (MEMS Mode)**<br>Dynamic electromechanical coupling simulation tracking the competition between Hooke's linear spring force and the non-linear electrostatic attraction ($\propto 1/x^2$) [Anterior]. Captures the exact micro-second transient collapse under voltage-control [Anterior].
-<img src="./gifs/mems_pull_in_instability.gif" alt="MEMS Pull-In Simulation"/>
+<img src="./gifs/capacitor_pull_in_animation.gif" alt="MEMS Pull-In Simulation"/>
 
 **Problem 1.11 - Electrostatic Boundary Flux & Surface Curvature**<br>Geometric differential solver animating a mutating conductor interface to confirm the invariant coupling between the normal derivative of the field ($\frac{\partial E}{\partial n}$) and the local Mean Curvature ($2H = \frac{1}{R_1} + \frac{1}{R_2}$) along the diagonal $Y=X$ line [Anterior, Anterior].
 <img src="./gifs/curvature_differential_solver.gif" alt="Surface Curvature Simulation"/>
