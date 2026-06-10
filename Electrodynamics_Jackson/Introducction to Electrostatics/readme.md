@@ -17,7 +17,7 @@ The following highlights feature complete numerical implementations, boundary co
 <img src="./gifs/conducting_sphere_animation.gif" alt="Gauss Law Spherical Varieties"/>
 
 **Problem 1.5 - The Quantum-Classical Hydrogen Atom**<br>Continuous Poisson solver tracking the electronic screening progress factor. Illustrates the geometric interplay between the discrete proton singularity ($\delta$-function nucleus) and the continuous exponential $1s$ orbital charge density [Anterior].
-<img src="./gifs/hydrogen_screening_progress.gif" alt="Hydrogen Screening Simulation"/>
+<img src="./gifs/hydrogen_atom_screening.gif" alt="Hydrogen Screening Simulation"/>
 
 **Problem 1.9 - Actuator Pull-In Instability (MEMS Mode)**<br>Dynamic electromechanical coupling simulation tracking the competition between Hooke's linear spring force and the non-linear electrostatic attraction ($\propto 1/x^2$) [Anterior]. Captures the exact micro-second transient collapse under voltage-control [Anterior].
 <img src="./gifs/capacitor_pull_in_animation.gif" alt="MEMS Pull-In Simulation"/>
