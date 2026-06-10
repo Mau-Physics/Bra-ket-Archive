@@ -23,7 +23,7 @@ The following highlights feature complete numerical implementations, boundary co
 <img src="./gifs/capacitor_pull_in_animation.gif" alt="MEMS Pull-In Simulation"/>
 
 **Problem 1.11 - Electrostatic Boundary Flux & Surface Curvature**<br>Geometric differential solver animating a mutating conductor interface to confirm the invariant coupling between the normal derivative of the field ($\frac{\partial E}{\partial n}$) and the local Mean Curvature ($2H = \frac{1}{R_1} + \frac{1}{R_2}$) along the diagonal $Y=X$ line [Anterior, Anterior].
-<img src="./gifs/curvature_differential_solver.gif" alt="Surface Curvature Simulation"/>
+<img src="./gifs/curvature_animation.gif" alt="Surface Curvature Simulation"/>
 
 **Problem 1.23 & 1.24 - 2D Transmission Line Lattice Relaxation (SOR)**<br>High-fidelity numerical field solver executing **5,185 Successive Over-Relaxation iterations** ($\omega = 1.75$) over an explicit eightfold symmetry mesh fraction [Anterior, Anterior]. Audits discretization errors down to a $\mathcal{O}(h^2)$ grid convergence limit with strict $10^{-10}$ floating-point precision [Anterior, Anterior].
 <img src="./gifs/transmission_line_sor_3d_relaxation.gif" alt="SOR 3D Potential Surface Relaxation"/>
