@@ -29,7 +29,7 @@ The following highlights feature complete numerical implementations, boundary co
 <img src="./gifs/transmission_line_sor_3d_relaxation.gif" alt="SOR 3D Potential Surface Relaxation"/>
 
 ---
-*Part of the [Bra-ket Archive](https://github.com) project for PhD preparation.*
+*Part of the [Bra-ket Archive](https://github.com/Mau-Physics) project for PhD preparation.*
 
 ## 🎥 Video Explanations
 Detailed walkthroughs and masterclasses for these theoretical and numerical deep dives:
